@@ -2,6 +2,10 @@
 
 *	# [Aaron Jorbin](http://aaron.jorb.in)
 
+*   # Chicago > U.P. Michigan > Portland, OR > DC
+
+*   # <img src="img/unc.svg">
+
 *   # Don't take Notes, go to <a href='http://jorb.in/dcjq-09-20122'>jorb.in/dcjq-09-2012</a>
 
 *	# We All have Workflows  
@@ -16,7 +20,7 @@
     
     <img src='img/historychart.png'>
 
-    <em>Stolen from Sys Admins</em>
+    <em><a href='https://github.com/askedrelic/Bash-History-Punchcard'>Bash History Punchcard</a></em>
 
 *   # [You Probobly Type Too Much](http://paulmckellar.com/huffshell/)
     
@@ -27,10 +31,6 @@
 *	## Tools Rock!
 	
 	> <a href='http://www.urbandictionary.com/define.php?term=Too%20Much%20Rock%20for%20One%20Hand'>\mm/</a>
-
-*   # CSS with a hint of programming
-
-*	# [LESS](http://lesscss.org/) || [SASS](http://sass-lang.com/) || [Stylus](http://learnboost.github.com/stylus/)
 
 *   # Learn to Love the Command Line
 
@@ -65,6 +65,10 @@
 
 *   # [Deploy on push to github](http://seancoates.com/blogs/deploy-on-push-from-github)
 
+*   # CSS with a hint of programming
+
+*	# [LESS](http://lesscss.org/) || [SASS](http://sass-lang.com/) || [Stylus](http://learnboost.github.com/stylus/)
+
 *   # If you build it, they will come
 
 *	# [Grunt](https://github.com/cowboy/grunt)
@@ -83,7 +87,7 @@
 
 *   # [Compile Time Defines](http://jeremyckahn.github.com/blog/2012/07/01/treating-javascript-like-a-30-year-old-language/)
 
-*   # Yo man, I just wrote a test for your test
+*   # Melarchy: Irish for I didn't test my code 
 
 *	# [Travis CI](http://travis-ci.org/)
 
